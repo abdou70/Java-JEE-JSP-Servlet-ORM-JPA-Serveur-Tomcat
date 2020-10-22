@@ -1,0 +1,72 @@
+body
+{
+	color:green;
+	border-width: 2px;
+}
+main
+{
+	margin-left : 150px;
+	margin-top : 40px;
+}
+h1
+{
+	text-align: center;
+	margin-top: 10px;
+	margin-right: 150px;
+	margin-left: 150px;
+	border-color: blue;
+}
+hr
+{
+	text-align: center;
+	margin-right : 150px;
+	margin-left :150px;
+	margin-top : 100px;
+}
+strong
+{
+	color:red;
+}
+.envoie
+{
+	margin-left: 600px;
+	color:blue;
+}
+p
+{
+	margin-left : 300px;
+	border-width: 1px;
+	margin-left: 300px;
+}
+.normale
+{
+  border-radius :50px 50px 50px 50px ; 
+  color :green;
+}
+.introduction
+{
+ border-width: 10px 10px 10px 10px;
+ border-style: groove;
+ border-color:  black red;
+ padding: 0 10px;
+ background-color: white;
+ border-radius: 10px 10px 10px 10px green;
+
+}
+
+.enregistrer
+{
+	color : blue ;
+	border : 2px solid blue ;
+    border-radius : 10px;	
+	margin-top :800px;
+	margin-left: 700px;
+}
+
+#first
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	border-radius: 10px 10px 10px 10px;
+}
